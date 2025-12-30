@@ -92,7 +92,8 @@ This repository contains a curated list of DevOps tools across the entire softwa
 
 #### Self-Hosted
 - **[Jenkins](https://jenkins.io)** - Leading open-source automation server #opensource
-- **[GitLab CI](https://docs.gitlab.com/ee/ci/)** - Built-in CI/CD for GitLab #opensource
+- **[GitLab CI](https://docs.gitlab.com/ee/ci/)** - Built-in CI/CD with enhanced merge tools #opensource
+- **[Azure DevOps Server](https://azure.microsoft.com/devops)** - Self-hosted DevOps with Ubuntu 24.04 support
 - **[Drone](https://drone.io)** - Container-native CI/CD #opensource
 - **[Tekton](https://tekton.dev)** - Cloud-native CI/CD #opensource
 - **[Buildkite](https://buildkite.com)** - Fast, secure, scalable CI/CD
@@ -187,6 +188,8 @@ This repository contains a curated list of DevOps tools across the entire softwa
 - **[Twistlock](https://www.paloaltonetworks.com/prisma/cloud)** - Container security platform
 - **[Falco](https://falco.org)** - Runtime security #opensource
 - **[Sysdig](https://sysdig.com)** - Container security and monitoring
+- **[AccuKnox Zero Trust](https://accuknox.com)** - eBPF-based runtime security with microsegmentation
+- **[Microsoft Defender for Cloud](https://microsoft.com/defender)** - GitHub integration with Copilot Autofix
 
 ---
 
@@ -194,6 +197,7 @@ This repository contains a curated list of DevOps tools across the entire softwa
 
 ### Container Orchestration
 - **[Kubernetes](https://kubernetes.io)** - Container orchestration #opensource
+- **[Kubernetes v1.35](https://kubernetes.io)** - Latest "Timbernetes" release with AI workload optimization #opensource
 - **[OpenShift](https://www.openshift.com)** - Enterprise Kubernetes by Red Hat
 - **[Docker Swarm](https://docs.docker.com/engine/swarm/)** - Docker's orchestration
 - **[Nomad](https://www.nomadproject.io)** - Simple and flexible orchestrator #opensource
@@ -248,6 +252,8 @@ This repository contains a curated list of DevOps tools across the entire softwa
 
 ### Provisioning
 - **[Terraform](https://www.terraform.io)** - Infrastructure as code #opensource
+- **[Terraform 1.10](https://www.terraform.io)** - Latest release with ephemeral values for sensitive data #opensource
+- **[OpenTofu 1.9.0](https://opentofu.org)** - Community-driven Terraform fork by Linux Foundation #opensource
 - **[Pulumi](https://www.pulumi.com)** - Modern infrastructure as code
 - **[AWS CloudFormation](https://aws.amazon.com/cloudformation/)** - IaC for AWS
 - **[Azure Resource Manager](https://azure.microsoft.com/en-us/features/resource-manager/)** - IaC for Azure
@@ -288,6 +294,10 @@ This repository contains a curated list of DevOps tools across the entire softwa
 ### Metrics & Monitoring
 - **[Prometheus](https://prometheus.io)** - Monitoring and alerting #opensource
 - **[Grafana](https://grafana.com)** - Observability platform #opensource
+- **[Grafana Mimir 3.0](https://grafana.com/oss/mimir)** - Prometheus-compatible with 92% memory reduction #opensource
+- **[Grafana Beyla](https://grafana.com/oss/beyla)** - eBPF-based auto-instrumentation #opensource
+- **[Grafana Alloy](https://grafana.com/oss/alloy)** - OpenTelemetry Collector distribution #opensource
+- **[Grepr](https://grepr.com)** - Cost-efficient observability platform (90%+ reduction)
 - **[Datadog](https://www.datadoghq.com)** - Monitoring and analytics platform
 - **[New Relic](https://newrelic.com)** - Full-stack observability
 - **[Dynatrace](https://www.dynatrace.com)** - Software intelligence platform
@@ -484,6 +494,9 @@ This repository contains a curated list of DevOps tools across the entire softwa
 - **[PagerDuty](https://www.pagerduty.com)** - Incident response platform
 - **[Opsgenie](https://www.atlassian.com/software/opsgenie)** - Incident management
 - **[VictorOps](https://www.splunk.com/en_us/products/on-call.html)** - Incident management
+- **[GitHub Copilot Agent Mode](https://github.com/features/copilot)** - AI agent for autonomous DevOps tasks with MCP support
+- **[Google Agent Development Kit](https://developers.google.com)** - TypeScript framework for building AI agents #opensource
+- **[Microsoft Agent Framework](https://microsoft.com/agent-framework)** - Multi-agent AI systems without Kubernetes #opensource
 
 ### Automation & Orchestration
 - **[Ansible Tower](https://www.ansible.com/products/tower)** - Enterprise automation
@@ -496,6 +509,12 @@ This repository contains a curated list of DevOps tools across the entire softwa
 - **[Argo Workflows](https://argoproj.github.io/workflows/)** - Kubernetes-native workflows #opensource
 - **[n8n](https://n8n.io)** - Workflow automation #opensource
 - **[Zapier](https://zapier.com)** - Automation platform
+
+### AI Development Tools
+- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** - Protocol for AI agent interactions (CNCF adopted)
+- **[GitHub Copilot Agent Mode](https://github.com/features/copilot)** - Autonomous DevOps AI agent
+- **[Google Agent Development Kit](https://developers.google.com)** - TypeScript framework for AI agents #opensource
+- **[Microsoft Agent Framework](https://microsoft.com/agent-framework)** - Multi-agent AI systems #opensource
 
 ---
 
