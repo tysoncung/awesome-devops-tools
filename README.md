@@ -116,13 +116,14 @@ This repository contains a curated list of DevOps tools across the entire softwa
 
 ### Continuous Deployment
 
-- **[Spinnaker](https://spinnaker.io)** - Multi-cloud continuous delivery #opensource
 - **[ArgoCD](https://argoproj.github.io/cd)** - Declarative GitOps CD for Kubernetes #opensource
-- **[Flux](https://fluxcd.io)** - GitOps for Kubernetes #opensource
-- **[Octopus Deploy](https://octopus.com)** - Deployment automation
 - **[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)** - Automated deployments
+- **[Easypanel](https://easypanel.io)** - Self-hosted server panel for deploying Git repositories, Docker images and Compose applications with databases and SSL.
+- **[Flux](https://fluxcd.io)** - GitOps for Kubernetes #opensource
 - **[Harness](https://harness.io)** - Software delivery platform
 - **[Humanitec](https://humanitec.com)** - Internal developer platform
+- **[Octopus Deploy](https://octopus.com)** - Deployment automation
+- **[Spinnaker](https://spinnaker.io)** - Multi-cloud continuous delivery #opensource
 
 ### GitOps
 
